@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mao.elasticsearch_query_document_data.ElasticsearchQueryDocumentDataApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.451 s - in mao.elasticsearch_query_document_data.ElasticsearchQueryDocumentDataApplicationTests

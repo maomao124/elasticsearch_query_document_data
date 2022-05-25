@@ -79,8 +79,6 @@ spring:
       on-profile: pro
 
 
-  elasticsearch:
-    uris: http://localhost:9200
 
 
 
